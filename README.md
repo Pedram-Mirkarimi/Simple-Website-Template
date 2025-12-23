@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Website Template
+# 🌐 CleanLanding — Responsive Website Template
 
 A lightweight and responsive **static website template** built with **HTML/CSS/JavaScript**.  
 Includes a modern layout with multiple sections and a mobile-friendly navigation toggle.
