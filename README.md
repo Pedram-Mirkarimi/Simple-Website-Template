@@ -67,7 +67,7 @@ cleanlanding-template/
    ├─ banner.jpg
    ├─ logo.png
    └─ (1.jpg ... 7.jpg)
-````
+```
 
 ---
 
